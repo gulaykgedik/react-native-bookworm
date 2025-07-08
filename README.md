@@ -44,4 +44,5 @@ A simple and modern React Native application that allows users to **add** and **
  ---
 
 ## 📸 Screenshots
- 
+ ![21395E67-6DA3-43BD-A1A5-AEC6D2A1A8C7online-video-cutter com-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/bd0ba9be-3890-4e84-bcaf-dd7f32fa738c)
+
